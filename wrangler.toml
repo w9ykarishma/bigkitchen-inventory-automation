@@ -1,0 +1,9 @@
+name = "bigkitchen-inventory-automation"
+main = "src/index.js"
+compatibility_date = "2026-11-05"
+workers_dev = true
+
+[vars]
+SHOPIFY_SHOP = "bigkitchen33619"
+SHOPIFY_API_VERSION = "2026-10"
+DRY_RUN = "true"
